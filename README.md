@@ -8,7 +8,7 @@
 <h2>💬 About Me</h2>
 <p>  ⚪ 🌱 Studying BCA at Dr. Subhash University </p>
 <p>  ⚪ 🎓 View My Resume (https://www.fgtu.in/DSU0109) </p>
-<p>  ⚪ 📫 How to reach me *dhruvrajsinhhardevsinhvaghela@gmail.com* </p>
+<p>  ⚪ 📫 How to reach me dhruvrajsinhhardevsinhvaghela@gmail.com </p>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
