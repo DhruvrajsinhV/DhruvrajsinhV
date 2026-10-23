@@ -2,7 +2,7 @@
 
 ### 💻 MCA Student | Python & Django Developer | Aspiring Software Developer
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at **Dr. Subhash University**. I enjoy building web applications, exploring new technologies, and turning ideas into practical software solutions.
+I'm currently pursuing my **Master of Computer Applications (MCA)** at **Noble University**. I enjoy building web applications, exploring new technologies, and turning ideas into practical software solutions.
 
 - 🎓 **Education:** MCA — Noble University
 - 🌱 **Currently working on:** Django, Python, and web application development
