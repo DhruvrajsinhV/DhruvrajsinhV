@@ -83,9 +83,9 @@ A personal finance management web application built with **Python and Django**, 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvrajsinhv&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-</p>
+</p> -->
 
 <p align="center">
   <i>“Building, learning, and improving — one project at a time.”</i>
