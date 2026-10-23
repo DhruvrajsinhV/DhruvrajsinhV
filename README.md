@@ -50,7 +50,7 @@ A personal finance management web application built with **Python and Django**, 
 
 > The project focuses on practical personal finance management, with scope for intelligent insights and smarter financial recommendations.
 
-*Note: Add your actual Finora repository link to this section once the project is published on GitHub.*
+<!-- *Note: Add your actual Finora repository link to this section once the project is published on GitHub.* -->
 
 ---
 
